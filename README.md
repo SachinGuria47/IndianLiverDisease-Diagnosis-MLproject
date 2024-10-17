@@ -48,9 +48,6 @@ This machine learning project aims to predict the likelihood of liver disease in
 
 The project compares the performance of Logistic Regression and Random Forest models in diagnosing liver disease. Detailed results and visualizations are provided in the notebook.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](../../issues) if you want to contribute.
 
 ## License
 
